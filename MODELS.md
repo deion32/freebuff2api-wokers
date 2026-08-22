@@ -1,4 +1,4 @@
-# Freebuff 可用模型（2026-08-22 03:15:56 北京时间）
+# Freebuff 可用模型（2026-08-22 11:07:52 北京时间）
 
 > 自动生成 · 来源：[CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) main · 更新频率：每 6 小时
 
@@ -15,6 +15,7 @@
 - `anthropic/claude-fable-5` —— Claude Fable 5（Anthropic 限量模型）
 - `mimo/mimo-v2.5` —— MiMo V2.5（轻量高效，适合快速任务）
 - `minimax/minimax-m3` —— MiniMax M3（综合能力强，中文优秀）
+- `openai/gpt-5.6-luna-es` —— openai/gpt-5.6-luna-es
 - `stealth/ox-alpha` —— stealth/ox-alpha
 
 ## 独立池（GLM 推荐解锁）
@@ -22,4 +23,4 @@
 - `z-ai/glm-5.2` —— GLM 5.2（智谱 AI，推荐解锁后使用）
 
 ---
-共 10 个模型 · 上次更新：2026-08-22 03:15:56
+共 11 个模型 · 上次更新：2026-08-22 11:07:52
